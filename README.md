@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ank1tchaudhary
 - 👀 I’m interested in making the world code native
-- 🌱 I’m currently learning UI/QA/Python
+- 🌱 I’m currently working on java/spring boot/Angular/react/Python
 - 💞️ I’m looking to collaborate on anything which can intrest me
 - 📫 You can reach me @ankit_speaks on twitter
 
